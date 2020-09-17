@@ -3,10 +3,5 @@ Repository contains code base for the articles in Medium
 
 ## TOPICS
 
-1. Python
-
-// IN PROGRESS
-
-2. Neo4j
-
+- [Neo4j](https://github.com/Lingesh2311/Self-Made-Projects/tree/master/Neo4j "Click for Graph databases!")
 
