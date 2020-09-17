@@ -1,0 +1,141 @@
+{
+    "UNIVERSES":{
+        "MARVEL":{
+            "Heros&Villains":{
+                "Description": "Awesome Heros and Villains from the Marvel universe!",
+                "Squad":[
+                    {
+                        "name": "Iron Man",
+                        "actor": "Robert Downey Jr.",
+                        "superpower": "Genius Intellect, Smart, Strength, Durability",
+                        "otherside": "Billionaire, playboy, philanthropist",
+                        "quotes": "I love you 3000!"
+                    },
+                    {
+                        "name": "Thor",
+                        "actor": "Chris Hemsworth",
+                        "superpower": "God of Thunder",
+                        "otherside": "love/hates Loki",
+                        "quotes": "Bring me thanos!"
+                    },
+                    {
+                        "name": "Dr. Strange",
+                        "actor": "Benedict Cumberbatch",
+                        "superpower": "Eidetic Memory, Genius Doctor, Super-rich",
+                        "otherside": "Keeper of the timestone",
+                        "quotes": "We're in the endgame now."
+                    },
+                    {
+                        "name": "Spider Man",
+                        "actor": "Tom Holland",
+                        "superpower": "Spidey senses, Super strength",
+                        "otherside": "Gentle, Ironman's godson.",
+                        "quotes": "I don't feel so good Mr. Stark."
+                    }
+                ],
+                "Anti-Squad":[
+                    {
+                        "name": "Thanos",
+                        "superpower": "Strength, Agility",
+                        "quotes": "I'm inevitable"
+                    },
+                    {
+                        "name": "Ultron",
+                        "superpower": "Super AI",
+                        "quotes": "There's only one path to peace, Avenger's extinction"
+                    },
+                    {
+                        "name": "Hela",
+                        "superpower": "Goddess of Death",
+                        "quotes": ""
+                    }
+                ]
+            },
+            "Anti-Heros": {
+                "Description": "Ones who save the world in the end, but badass!",
+                "Squad":[
+                    {
+                        "name": "Wolverine",
+                        "superpower": "Admantium Claws, Healing",
+                        "quotes": "I'm Canadian"
+                    },
+                    {
+                        "name": "Deadpool",
+                        "superpower": "Healing, manipulation",
+                        "quotes": "Dad?"
+                    },
+                    {
+                        "name": "Magneto",
+                        "superpower": "Magnetism manipulation",
+                        "quotes": "Peace was never an option"
+                    }
+                ]
+            }
+        },
+        "DC": {
+            "Heros&Villains": {
+                "Description": "Awesome Heros and Villains from the DC universe!",
+                "Squad": [
+                    {
+                        "name": "Superman",
+                        "actor": "Henry Cavill",
+                        "superpower": "Superhuman Strength, XRay vision",
+                        "otherside": "Nerdy Reporter",
+                        "quotes": "It’s not an S, on my world it means hope."
+                    },
+                    {
+                        "name": "Batman",
+                        "actor": "Ben Affleck",
+                        "superpower": "Genius, Peerless martial artist",
+                        "otherside": "Wealthy American playboy, philanthropist, and owner of Wayne Enterprises",
+                        "quotes": "Do you bleed?"                        
+                    },
+                    {
+                        "name": "Aquaman",
+                        "actor": "Jason Mamoa",
+                        "superpower": "Water manipulation, superhuman strength",
+                        "otherside": "Son of a human father and a superhuman Atlantean mother",
+                        "quotes": "Dressed Like A Bat. I Dig It."                        
+                    }
+                ],
+                "Anti-Squad": [
+                    {
+                        "name": "Doomsday",
+                        "superpower": "Kryptonite, Reality Warping",
+                        "quotes": "Superman. I'm here to kill you. Is this a bad time?"
+                    },
+                    {
+                        "name": "Joker",
+                        "superpower": "He can make Batman laugh,Expertise in chemicals",
+                        "quotes": "Why so serious?"                        
+                    },
+                    {
+                        "name": "Darkseid",
+                        "superpower": "Strenght, Invulnerability",
+                        "quotes": "You will suffer, fool."                        
+                    }
+                ]
+            },
+            "Anti-Heros": {
+                "Description": "Ones who save the world in the end, but badass!",
+                "Squad":[
+                    {
+                        "name": "Harley Quinn",
+                        "superpower": "Superhuman strength, agility",
+                        "quotes": "Face it, Harl, this stinks — yer a certified nutso wanted by the law in over a dozen states — and hopelessly in love with a murderous, psychopathic clown"                        
+                    },
+                    {
+                        "name": "Black Adam",
+                        "superpower": "Demigod superstrength",
+                        "quotes": "It's a good day to kill."                        
+                    },
+                    {
+                        "name": "Deadshot",
+                        "superpower": "Top marksman",
+                        "quotes": "What, we some kinda... Suicide Squad?"                        
+                    }                    
+                ]
+            }
+        }
+    }
+}
